@@ -14,6 +14,7 @@
     "plugins/sigma.plugins.dragNodes.min.js",
     "plugins/sigma.plugins.filter.min.js",
     "plugins/sigma.plugins.neighborhoods.min.js",
+    "plugins/sigma.plugins.relativeSize.min.js",
     "plugins/sigma.renderers.customEdgeShapes.min.js",
     "plugins/sigma.renderers.customShapes.min.js",
     "plugins/sigma.renderers.edgeLabels.min.js",
